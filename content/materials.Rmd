@@ -1,0 +1,43 @@
+---
+title: "NURC Workshop Materials"
+output: html_document
+---
+
+#### Problem sets
+
+| Problem set | Download   | Preview            | Topic(s)                                                                             | # of questions |
+|-------------|------------|--------------------|--------------------------------------------------------------------------------------|----------------|
+| nurc_2021   | [.ipynb]() | [View on GitHub]() | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization | 16             |
+
+#### General Information
+This section will tell you everything you need to know about the problem sets!
+
+#### Downloading the problem set
+To download the problem sets, simply right click the .ipynb file and download/save it. If you want to take a look at the problems/content, you can check it out on GitHub.
+
+#### Loading the problem set
+To load the problem set, simply type `jupyter lab` or `jupyter notebook` in your terminal. Then, find the .ipynb file and open it. 
+
+    ```
+    (base) Andrews-MacBook-Pro:~ andrewli$ jupyter lab
+    ```
+Alternatively, you can open the problem set via __UBC Syzygy__ (I recommend this way if you have an UBC CWL).
+
+1. Go to [ubc.syzygy.ca](https://ubc.syzygy.ca/).
+2. Sign in with your CWL account.
+3. Find your .ipynb file and open it.
+
+You can log in with your google account via __Cybera__ if you do not have an UBC CWL.
+
+1. Go to [www.cybera.syzygy.ca](https://cybera.syzygy.ca).
+2. Sign in with your google account.
+3. Find your .ipynb file and open it.
+
+#### Jupyter 
+A Jupyter notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and markdown. It is a great learning tool as you can use an autograder. Here are some tips to navigating Jupyter:
+
+* Like R Studio, you need to press "control" + "enter" to run your code. FYI "command" + "enter" doesn't work in mac, you need to use control.
+* Double click on a cell to edit it/answer the question. Note that the problem set will be a mix of "read-only" cells and cells that you can edit and run.
+
+#### Autograder
+Every question in the problem set has an autograder. In order to get the question right, you need to follow the instructions carefully. For example, if the question asks you to give the x-axis a specific name, there is a test to see if you did. Other questions will just ask you to change the axis name to something more human readable. Some questions will require you to use the answer from a previous question. If you are stuck on a question, take a look at the test I wrote to see exactly what the question is looking for.  

@@ -22,6 +22,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/andr3wli/nurc-r-website
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/ubc-neuroscience-club/?viewAsMember=true
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/UBCneuroscienceclub/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/ubcneuroscienceclub/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
