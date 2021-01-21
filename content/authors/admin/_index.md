@@ -42,6 +42,6 @@ highlight_name: false
 
 In this workshop, you will learn how to: 
 
-* load, wrangle, and visualize data
+* load, wrangle, and visualize a neuroscience data set
 * have a reproducible and shareable workflow
 * use R and modern tools such as tidyverse

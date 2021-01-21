@@ -18,9 +18,9 @@ To download the problem sets, simply right click the .ipynb file and download/sa
 #### Loading the problem set
 To load the problem set, simply type `jupyter lab` or `jupyter notebook` in your terminal. Then, find the .ipynb file and open it. 
 
-    ```
+```
     (base) Andrews-MacBook-Pro:~ andrewli$ jupyter lab
-    ```
+```
 Alternatively, you can open the problem set via __UBC Syzygy__ (I recommend this way if you have an UBC CWL).
 
 1. Go to [ubc.syzygy.ca](https://ubc.syzygy.ca/).
