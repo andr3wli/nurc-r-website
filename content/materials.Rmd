@@ -29,7 +29,7 @@ Alternatively, you can open the problem set via __UBC Syzygy__ (I recommend this
 
 You can log in with your google account via __Cybera__ if you do not have an UBC CWL.
 
-1. Go to [www.cybera.syzygy.ca](https://cybera.syzygy.ca).
+1. Go to [cybera.syzygy.ca](https://cybera.syzygy.ca).
 2. Sign in with your google account.
 3. Find your .ipynb file and open it.
 
