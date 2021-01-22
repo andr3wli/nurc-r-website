@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Teaching Team"
-subtitle = ""
+title = "Instructors"
+subtitle = "Meet the teaching team"
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.

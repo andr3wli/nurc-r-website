@@ -1,0 +1,38 @@
+---
+title: "Using R in neuroscience research"
+output: html_document
+---
+
+#### Website
+
+https://andrewli-nurc.netlify.app
+
+#### About this workshop
+
+__What it is:__ This is a hands on introduction aimed to beginners. The goal is to get participants familiar and enthusiastic with the r programming language. As well, to know how to access additional resources/courses to continue learning on their own.
+
+__Who is it for:__ This workshop is aimed towards researchers who are interested in using R but have little or no programming experience. This will be a  gentle introduction to R and Jupyter.
+
+
+#### Details
+
+__Time:__ The workshop officially starts at 7:20pm but I will be online earlier (~7pm) to chat and answer questions
+__Date:__ Thursday, January 28th 2021
+__Place:__ Online via Zoom
+
+#### Instructor
+
+[Andrew Li](http://andrewcli.me)
+
+#### Content
+* Introduction to Jupyter 
+* Read in data via `readr`
+* Data cleaning via `dplyr`
+* Data visualization via `ggplot2`
+* The pipe operator `%>%`
+
+#### Registration
+Attendance is free, please RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSco1157Ttx7Ml64UJlMddTQHWRV7x6JFuR1s16f6luWTUkp2A/viewform)! For questions please email the [Neuroscience Club](mailto:ubcneuroscienceclub@gmail.com).
+
+#### Research Opportunity
+If you are an undergrad student looking for research opportunity in psychiatry, shoot [me](mailto:andrewlll9@hotmail.ca) an email!

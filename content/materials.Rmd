@@ -5,6 +5,8 @@ output: html_document
 
 #### Problem sets
 
+__Note:__ The worksheet will be uploaded closer to the workshop date.
+
 | Problem set | Download   | Preview            | Topic(s)                                                                             | # of questions |
 |-------------|------------|--------------------|--------------------------------------------------------------------------------------|----------------|
 | nurc_2021   | [.ipynb]() | [View on GitHub]() | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization<br> * The pipe operator | 16             |

@@ -1,7 +1,7 @@
 ---
 authors:
-- andrew
-name: Andrew Li
+- tiger
+name: Tiger Wu
 # role: Instructor
 # Organizations/Affiliations
 organizations:

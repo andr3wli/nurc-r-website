@@ -9,7 +9,7 @@ title = "Workshop Information"
 [[feature]]
   icon = "copy"
   icon_pack = "fas"
-  name = "[About]()"
+  name = "[About](/about)"
   description = ""
   
 [[feature]]
