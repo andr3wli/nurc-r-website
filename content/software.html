@@ -1,0 +1,31 @@
+---
+title: "Software Installation"
+output: html_document
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+<link href="/rmarkdown-libs/anchor-sections/anchor-sections.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
+
+
+<p>In order to get started with this workshop, you need to download some tools. Note that all instructions are for Mac OS.</p>
+<div id="r-and-r-studio" class="section level4">
+<h4>R and R Studio</h4>
+<p>For this workshop, we will be conducting our analysis via the R programming language, as such you need to install R. You do not need to install R Studio, but I suggest you do so for your future R endeavours.</p>
+<ul>
+<li>Download <strong>R</strong> <a href="https://mirror.rcg.sfu.ca/mirror/CRAN/">here</a>.</li>
+<li>Download <strong>R Studio</strong> <a href="https://rstudio.com/products/rstudio/download/">here</a>.</li>
+</ul>
+</div>
+<div id="irkernel" class="section level4">
+<h4>IRkernel</h4>
+<p>You need to download the <code>IRkernal</code> package in order to use R in Jupyter notebooks. To do so, simply install the pacakge via R Studio:</p>
+<pre><code>install.packages(&quot;IRkernel&quot;)</code></pre>
+<p>Then, open your terminal and paste the following code:</p>
+<pre><code>R -e &quot;IRkernel::installspec()&quot;</code></pre>
+<p>After that, you should be able to use R in Jupyter now! To check, simply type jupyter lab in your terminal and see if you can create a new notebook using the R language.</p>
+<pre><code>jupyter lab</code></pre>
+</div>
+<div id="jupyter-lab" class="section level4">
+<h4>Jupyter Lab</h4>
+</div>

@@ -13,7 +13,7 @@ title = "Start the Workshop"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/materials"
-  label = "Go to the materials"
+  label = "Go to materials"
   icon_pack = "fas"
   icon = "arrow-circle-right"
   

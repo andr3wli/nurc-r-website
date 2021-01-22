@@ -42,6 +42,8 @@ highlight_name: false
 
 In this workshop, you will learn how to: 
 
-* load, wrangle, and visualize a neuroscience data set
-* have a reproducible and shareable workflow
-* use R and modern tools such as tidyverse
+* Load, wrangle, and visualize a neuroscience data set
+* Have a reproducible and shareable workflow
+* Use R and modern tools such as tidyverse
+
+*RSVP to Neuroscience Undergradaute Research conference [here](https://docs.google.com/forms/d/e/1FAIpQLSco1157Ttx7Ml64UJlMddTQHWRV7x6JFuR1s16f6luWTUkp2A/viewform)!*

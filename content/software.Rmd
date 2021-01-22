@@ -1,0 +1,35 @@
+---
+title: "Software Installation"
+output: html_document
+---
+
+In order to get started with this workshop, you need to download some tools. Note that all instructions are for Mac OS. 
+
+#### R and R Studio
+For this workshop, we will be conducting our analysis via the R programming language, as such you need to install R. You do not need to install R Studio, but I suggest you do so for your future R endeavours. 
+
+* Download __R__ [here](https://mirror.rcg.sfu.ca/mirror/CRAN/). 
+* Download __R Studio__ [here](https://rstudio.com/products/rstudio/download/). 
+
+#### IRkernel
+You need to download the `IRkernal` package in order to use R in Jupyter notebooks. To do so, simply install the pacakge via R Studio:
+
+```
+install.packages("IRkernel")
+```
+
+Then, open your terminal and paste the following code:
+
+```
+R -e "IRkernel::installspec()"
+```
+
+After that, you should be able to use R in Jupyter now! To check, simply type jupyter lab in your terminal and see if you can create a new notebook using the R language. 
+
+```
+jupyter lab
+```
+
+#### Jupyter Lab
+
+

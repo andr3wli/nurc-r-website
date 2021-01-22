@@ -7,10 +7,9 @@ output: html_document
 
 | Problem set | Download   | Preview            | Topic(s)                                                                             | # of questions |
 |-------------|------------|--------------------|--------------------------------------------------------------------------------------|----------------|
-| nurc_2021   | [.ipynb]() | [View on GitHub]() | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization | 16             |
-
-#### General Information
-This section will tell you everything you need to know about the problem sets!
+| nurc_2021   | [.ipynb]() | [View on GitHub]() | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization<br> * The pipe operator | 16             |
+#### Zoom
+After you have registered for the event, you will receive an email with the zoom link to attend this workshop! To register, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSco1157Ttx7Ml64UJlMddTQHWRV7x6JFuR1s16f6luWTUkp2A/viewform).
 
 #### Downloading the problem set
 To download the problem sets, simply right click the .ipynb file and download/save it. If you want to take a look at the problems/content, you can check it out on GitHub.
