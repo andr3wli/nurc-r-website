@@ -16,8 +16,6 @@ baseurl = "https://andrewli-nurc.netlify.app/"
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
 copyright = " &copy; Andrew Li, {year} | View the source code [here](https://github.com/andr3wli/nurc-r-website). <br> Built with ❤️ and ☕️ (and also [Netlify](https://www.netlify.com/), [Hugo](https://themes.gohugo.io/academic/), and the [R Blogdown](https://cran.r-project.org/web/packages/blogdown/index.html) package)."
 
-# Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-179040412-1"
 
 ############################
 ## Advanced options below ##
