@@ -1,6 +1,6 @@
 ---
 # Display name
-title: NURC R Workshop @ UBC
+title: Learn R Workshop @ UBC
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,24 +19,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:ubcneuroscienceclub@gmail.com
-- icon: home
-  icon_pack: fas
-  link: https://ubcneuroscienceclub.wixsite.com/uncweb
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ubcneurosciclub
 - icon: github
   icon_pack: fab
   link: https://github.com/andr3wli/nurc-r-website
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/company/ubc-neuroscience-club/?viewAsMember=true
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/UBCneuroscienceclub/
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/ubcneuroscienceclub/
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -46,7 +38,7 @@ email: ""
 highlight_name: false
 ---
 
-In this workshop, you will learn how to: 
+In these workshops, you will learn how to: 
 
 * Load, wrangle, and visualize a neuroscience data set
 * Have a reproducible and shareable workflow
