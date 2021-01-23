@@ -16,6 +16,12 @@ role: 2021
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:ubcneuroscienceclub@gmail.com
+- icon: home
+  icon_pack: fas
+  link: https://ubcneuroscienceclub.wixsite.com/uncweb
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ubcneurosciclub

@@ -26,4 +26,4 @@ title = "Start the Workshop"
   label = 'Workshop materials are licensed under [MIT License](https://github.com/andr3wli/nurc-r-website/blob/master/LICENSE.md).'
 +++
 
-All workshop materials are free for the public to use! 
+All workshop materials are freely available to the public!

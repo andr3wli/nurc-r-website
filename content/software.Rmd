@@ -3,7 +3,7 @@ title: "Software Installation"
 output: html_document
 ---
 
-In order to get started with this workshop, you need to download some tools. 
+In order to get started with this workshop, you *might* need to download some tools. 
 
 #### Jupyter Notebook
 You can access Jupyter notebooks via [ubc.syzygy.ca](https://ubc.syzygy.ca/). I highly recommend you use this method if you have a CWL account. Alternatively, you can log in with a google account via [cybera.syzygy.ca](https://cybera.syzygy.ca/). From here, simply upload the .ipynb file and you will be able to access it. If these two methods don't work, you can follow the instructions below.

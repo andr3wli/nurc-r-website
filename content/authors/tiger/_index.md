@@ -15,13 +15,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:andrew-li@alumni.ubc.ca
+  link: mailto:tigerthepro@gmail.coom
 - icon: github
   icon_pack: fab
-  link: https://github.com/andr3wli/
+  link: https://github.com/TigerThePro
 - icon: home
   icon_pack: fas
-  link: http://andrewcli.me
+  link: https://tigerthepro.github.io/TigerWu/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/drewroc6

@@ -11,7 +11,7 @@ __Note:__ The worksheet will be uploaded closer to the workshop date.
 |-------------|------------|--------------------|--------------------------------------------------------------------------------------|----------------|
 | nurc_2021   | [.ipynb]() | [View on GitHub]() | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization<br> * The pipe operator | 16             |
 #### Zoom
-After you have registered for the event, you will receive an email with the zoom link to attend this workshop! To register, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSco1157Ttx7Ml64UJlMddTQHWRV7x6JFuR1s16f6luWTUkp2A/viewform).
+You can find the Zoom link to this workshop and other exciting events [here](https://docs.google.com/document/d/1lJyHPvEm95x79rmCJJ_T7y-FBYDSWBu77u9C_flKw3Q/edit?fbclid=IwAR3X9tTpT9hApd5i4wIOZW3YvwhncILjdpJ1bx4-0E59UKqnamXRNmbmQLY#heading=h.urw1vzli8gz5)! <br> To register, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSco1157Ttx7Ml64UJlMddTQHWRV7x6JFuR1s16f6luWTUkp2A/viewform).
 
 #### Downloading the problem set
 To download the problem sets, simply right click the .ipynb file and download/save it. If you want to take a look at the problems/content, you can check it out on GitHub.
