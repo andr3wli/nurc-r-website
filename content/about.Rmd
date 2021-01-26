@@ -8,3 +8,14 @@ output: html_document
 https://r4n.netlify.app
 
 #### About
+R for Neuroscience (r4n) will be hosting a series of __free__ workshops to teach R (Python as well?). If you are interested, keep a look out for future workshops! 
+
+#### Future workshops
+Here are some potential future workshops:
+
+* Reading in data and tidy data 
+* Data wrangling
+* Data visualization 
+* Model fitting 
+* Functions 
+* Creating your own website via blogdown

@@ -18,7 +18,7 @@ role: UBC
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ubcneuroscienceclub@gmail.com
+  link: mailto:andrewlll9@hotmail.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ubcneurosciclub
