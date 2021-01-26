@@ -10,7 +10,7 @@ You can access Jupyter notebooks via [ubc.syzygy.ca](https://ubc.syzygy.ca/). I 
 
 
 {{% callout note %}}
-For the [NURC 2021](https://ubcneuroscienceclub.wixsite.com/uncweb/nurc-2021) workshop, I suggest you use Jupyter notebook via syzygy as you will not need to download anything!
+If you have a UBC CWL or google account, I suggest you use Jupyter notebook via syzygy as you will not need to download anything!
 {{% /callout %}}
 
 {{% callout note %}}
