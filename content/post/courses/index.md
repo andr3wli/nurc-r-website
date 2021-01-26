@@ -32,4 +32,4 @@ tags:
 categories:
 
 ---
-Here are some courses at UBc that uses R.
+Here are some courses at UBC that uses R.
