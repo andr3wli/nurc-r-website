@@ -23,7 +23,7 @@ __Who is it for:__ This workshop is aimed towards researchers who are interested
 __Time:__ The workshop officially starts at 7:25pm but the instructors will be online earlier (~7pm) to chat and answer questions. <br>
 __Date:__ Thursday, January 28th 2021 <br>
 __Place:__ The Zoom link can be found [here](https://docs.google.com/document/d/1lJyHPvEm95x79rmCJJ_T7y-FBYDSWBu77u9C_flKw3Q/edit?fbclid=IwAR3X9tTpT9hApd5i4wIOZW3YvwhncILjdpJ1bx4-0E59UKqnamXRNmbmQLY#heading=h.urw1vzli8gz5). <br>
-__Instructors:__ [Andrew Li](http://andrewcli.me) and [Tiger Wu](https://tigerthepro.github.io/TigerWu/) <br>
+__Instructors:__ [Andrew Li](http://andrewcli.me) and [Tiger Wu](https://tigerthepro.github.io/TigerWu/)  <br>
 __Registration:__ Attendance is free, please RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSco1157Ttx7Ml64UJlMddTQHWRV7x6JFuR1s16f6luWTUkp2A/viewform)!
 
 #### Downloading the problem set
