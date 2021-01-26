@@ -4,20 +4,34 @@ output: html_document
 ---
 
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
-<link href="/rmarkdown-libs/anchor-sections/anchor-sections.css" rel="stylesheet" />
-<script src="/rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
 
 
-<p>In order to get started with this workshop, you <em>might</em> need to download some tools. dsfgsdgfdg</p>
+<p>In order to get started with this workshop, you <em>might</em> need to download some tools.</p>
 <div id="jupyter-notebook" class="section level4">
 <h4>Jupyter Notebook</h4>
 <p>You can access Jupyter notebooks via <a href="https://ubc.syzygy.ca/">ubc.syzygy.ca</a>. I highly recommend you use this method if you have a CWL account. Alternatively, you can log in with a google account via <a href="https://cybera.syzygy.ca/">cybera.syzygy.ca</a>. From here, simply upload the .ipynb file and you will be able to access it. If these two methods don’t work, you can follow the instructions below.</p>
-<p>{{%/* note title=“I want to Inform the User” %}}
-The <em>note</em> callout can draw attention to something important in the surrounding content. This is the more subtile of the 2 callouts and can be used for items such as key takeaways.
-{{% /note */%}}</p>
+<p>{{% callout note %}}
+For the <a href="https://ubcneuroscienceclub.wixsite.com/uncweb/nurc-2021">NURC 2021</a> workshop, I suggest you use Jupyter notebook via syzygy as you will not need to download anything!
+{{% /callout %}}</p>
+<p>{{% callout note %}}
+If you are using Jupyter notebook, you <strong>cannot</strong> upload the <code>workshop_name</code> folder (you can only upload files not folders). Instead of manually uploading everything, follow these steps:</p>
+<ol style="list-style-type: decimal">
+<li><p>After you download it, find it in your downloads and zip (compress) it.</p></li>
+<li><p>Upload the .zip file into Jupyter home</p></li>
+<li><p>In Jupyter home, open a new Terminal and run:</p></li>
+</ol>
+<pre><code>! unzip ~/workshop_name.zip -d ~/</code></pre>
+<ol start="4" style="list-style-type: decimal">
+<li>If you want to delete the .zip file, you can delete it manually or run</li>
+</ol>
+<pre><code>rm ~/workshop_name.zip</code></pre>
+<ol start="5" style="list-style-type: decimal">
+<li>Open the folder and find the .ipynb file!
+{{% /callout %}}</li>
+</ol>
 </div>
-<div id="jupyter-lab" class="section level4">
-<h4>Jupyter Lab</h4>
+<div id="jupyter-labpythonconda" class="section level4">
+<h4>Jupyter Lab/Python/conda</h4>
 <p>You need to install Python to run Jupyter Lab. As well, you will need package manager. You can install that <a href="https://docs.conda.io/en/latest/miniconda.html">here</a> (make sure you download <code>Miniconda MacOSX 64-bit bash</code>). From there, you can install Jupyter Lab via <code>conda</code>:</p>
 <pre><code>conda install -c conda-forge jupyterlab</code></pre>
 </div>

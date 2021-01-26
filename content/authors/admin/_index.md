@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Learn R Workshop @ UBC
+title: R for Neuroscience Workshop 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 2021
+role: UBC
 
 
 

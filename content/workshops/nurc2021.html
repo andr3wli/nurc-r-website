@@ -1,0 +1,117 @@
+---
+title: "NURC Workshop Materials"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<div id="about-this-workshop" class="section level4">
+<h4>About this workshop</h4>
+<p><strong>What it is:</strong> This is a hands on introduction aimed to beginners. The goal is to get participants familiar and enthusiastic with the R programming language. As well, to know how to access additional resources/courses to continue learning on their own.</p>
+<p><strong>Who is it for:</strong> This workshop is aimed towards researchers who are interested in using R but have little or no programming experience. This will be a gentle introduction to R and Jupyter.</p>
+</div>
+<div id="problem-sets" class="section level4">
+<h4>Problem set(s)</h4>
+<table>
+<colgroup>
+<col width="8%" />
+<col width="8%" />
+<col width="13%" />
+<col width="58%" />
+<col width="10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Problem set</th>
+<th>Download</th>
+<th>Preview</th>
+<th>Topic(s)</th>
+<th># of questions</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>nurc_2021</td>
+<td><a href="">.ipynb</a></td>
+<td><a href="">View on GitHub</a></td>
+<td>* Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization<br> * The pipe operator</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="details" class="section level4">
+<h4>Details</h4>
+<p><strong>Time:</strong> The workshop officially starts at 7:25pm but the instructors will be online earlier (~7pm) to chat and answer questions. <br>
+<strong>Date:</strong> Thursday, January 28th 2021 <br>
+<strong>Place:</strong> The Zoom link can be found <a href="https://docs.google.com/document/d/1lJyHPvEm95x79rmCJJ_T7y-FBYDSWBu77u9C_flKw3Q/edit?fbclid=IwAR3X9tTpT9hApd5i4wIOZW3YvwhncILjdpJ1bx4-0E59UKqnamXRNmbmQLY#heading=h.urw1vzli8gz5">here</a>.
+<strong>Instructors:</strong> <a href="http://andrewcli.me">Andrew Li</a> and <a href="https://tigerthepro.github.io/TigerWu/">Tiger Wu</a>
+<strong>Registration:</strong> Attendance is free, please RSVP <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1157Ttx7Ml64UJlMddTQHWRV7x6JFuR1s16f6luWTUkp2A/viewform">here</a>!</p>
+</div>
+<div id="downloading-the-problem-set" class="section level4">
+<h4>Downloading the problem set</h4>
+<p>To download the problem sets, simply right click the .ipynb file and download/save it. If you want to take a look at the problems/content, you can check it out on GitHub.</p>
+</div>
+<div id="loading-the-problem-set" class="section level4">
+<h4>Loading the problem set</h4>
+<p>To load the problem set, simply type <code>jupyter lab</code> or <code>jupyter notebook</code> in your terminal. Then, find the .ipynb file and open it.</p>
+<pre><code>    (base) Andrews-MacBook-Pro:~ andrewli$ jupyter lab</code></pre>
+<p>Alternatively, you can open the problem set via <strong>UBC Syzygy</strong> (I recommend this way if you have an UBC CWL).</p>
+<ol style="list-style-type: decimal">
+<li>Go to <a href="https://ubc.syzygy.ca/">ubc.syzygy.ca</a>.</li>
+<li>Sign in with your CWL account.</li>
+<li>Check below!</li>
+</ol>
+<p>You can log in with your google account via <strong>Cybera</strong> if you do not have an UBC CWL.</p>
+<ol style="list-style-type: decimal">
+<li>Go to <a href="https://cybera.syzygy.ca">cybera.syzygy.ca</a>.</li>
+<li>Sign in with your google account.</li>
+<li>Check below!</li>
+</ol>
+<p>{{% callout note %}}
+If you are using Jupyter notebook, you <strong>cannot</strong> upload the <code>nurc_2021</code> folder (you can only upload files not folders). Instead of manually uploading everything, follow these steps:</p>
+<ol style="list-style-type: decimal">
+<li><p>After you download it, find it in your downloads and zip (compress) it.</p></li>
+<li><p>Upload the .zip file into Jupyter home</p></li>
+<li><p>In Jupyter home, open a new Terminal and run:</p></li>
+</ol>
+<pre><code>! unzip ~/nurc_2021.zip -d ~/</code></pre>
+<ol start="4" style="list-style-type: decimal">
+<li>If you want to delete the .zip file, you can delete it manually or run</li>
+</ol>
+<pre><code>rm ~/nurc_2021.zip</code></pre>
+<ol start="5" style="list-style-type: decimal">
+<li>Open the folder and find the .ipynb file!
+{{% /callout %}}</li>
+</ol>
+</div>
+<div id="contents" class="section level4">
+<h4>Contents</h4>
+<p>In this workshop, we will use a FMRI data set that explores <a href="https://www.kaggle.com/jboysen/mri-and-alzheimers">Alzheimer’s disease</a>. You will be introduced to the basics of reading in data, data wrangling, and data visualization. Next we will work with data set that looks at <a href="https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-03-24/readme.md">traumatic brain injury</a> demonstrate how powerful and customizable ggplot2 is. After making a basic ggplot2 plot, we will make it more aesthetically pleasing by changing the axis names, themes, font, and more!</p>
+<ul>
+<li>Introduction to Jupyter</li>
+<li>Read in data via <code>readr</code>
+<ul>
+<li><code>read_csv()</code></li>
+</ul></li>
+<li>Data cleaning via <code>dplyr</code>
+<ul>
+<li><code>filter()</code></li>
+<li><code>select()</code></li>
+<li><code>rename()</code></li>
+<li><code>mutate()</code></li>
+</ul></li>
+<li>Data visualization via <code>ggplot2</code>
+<ul>
+<li>The <a href="https://www.amazon.ca/Grammar-Graphics-Leland-Wilkinson/dp/0387245448">grammar of graphics</a></li>
+<li><code>geom_boxplot()</code></li>
+<li><code>geom_point()</code></li>
+<li><a href="https://ggplot2.tidyverse.org/reference/ggtheme.html">Default themes</a></li>
+</ul></li>
+<li>The pipe operator <code>%&gt;%</code></li>
+</ul>
+</div>
