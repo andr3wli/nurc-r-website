@@ -16,7 +16,7 @@ __Who is it for:__ This workshop is aimed towards researchers who are interested
 
 | Problem set | Download   | Preview            | Topic(s)                                                                             | # of questions |
 |-------------|------------|--------------------|--------------------------------------------------------------------------------------|----------------|
-| nurc_2021   | <a href="/static/workshops/nurc-2021.zip" download> .zip</a> | [View on GitHub](https://github.com/andr3wli/nurc-r-website/blob/master/content/problem_sets/nurc_2021_folder/nurc_2021.ipynb) | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization<br> * The pipe operator | 20             |
+| nurc_2021   | <a href="/static/workshops/nurc_2021.zip" download> .zip</a> | [View on GitHub](https://github.com/andr3wli/nurc-r-website/blob/master/content/problem_sets/nurc_2021-folder/nurc_2021.ipynb) | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization<br> * The pipe operator | 20             |
 
 #### Details
 
