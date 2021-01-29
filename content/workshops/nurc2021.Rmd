@@ -16,7 +16,7 @@ __Who is it for:__ This workshop is aimed towards researchers who are interested
 
 | Problem set | Download   | Preview            | Topic(s)                                                                             | # of questions |
 |-------------|------------|--------------------|--------------------------------------------------------------------------------------|----------------|
-| nurc_2021   | [.ipynb](https://raw.githubusercontent.com/andr3wli/nurc-r-website/master/content/problem_sets/nurc_2021/nurc_2021.ipynb) | [View on GitHub](https://github.com/andr3wli/nurc-r-website/blob/master/content/problem_sets/nurc_2021/nurc_2021.ipynb) | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization<br> * The pipe operator | 20             |
+| nurc_2021   | [.zip](/content/problem_sets/nurc_2021.zip) | [View on GitHub](https://github.com/andr3wli/nurc-r-website/blob/master/content/problem_sets/nurc_2021/nurc_2021.ipynb) | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization<br> * The pipe operator | 20             |
 
 #### Details
 
@@ -27,10 +27,10 @@ __Instructors:__ [Andrew Li](http://andrewcli.me) and [Tiger Wu](https://tigerth
 __Registration:__ Attendance is free, please RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSco1157Ttx7Ml64UJlMddTQHWRV7x6JFuR1s16f6luWTUkp2A/viewform)!
 
 #### Downloading the problem set
-To download the problem sets, simply right click the .ipynb file and download/save it. If you want to take a look at the problems/content, you can check it out on GitHub.
+To download the problem sets, simply right click the .zip file and download/save it. If you want to take a look at the problems/content, you can check it out on GitHub.
 
 #### Loading the problem set
-To load the problem set, simply type `jupyter lab` or `jupyter notebook` in your terminal. Then, find the .ipynb file and open it. 
+To load the problem set, simply type `jupyter lab` or `jupyter notebook` in your terminal. Then, find the nurc_2021 folder and open then find the .ipynb file.  
 
 ```
     (base) Andrews-MacBook-Pro:~ andrewli$ jupyter lab
@@ -50,7 +50,7 @@ You can log in with your google account via __Cybera__ if you do not have an UBC
 {{% callout note %}}
 If you are using Jupyter notebook, you __cannot__ upload the `nurc_2021` folder (you can only upload files not folders). Instead of manually uploading everything,  follow these steps:
 
-1. After you download it, find it in your downloads and zip (compress) it.
+~~1. After you download it, find it in your downloads and zip (compress) it.~~ The file is zipped already!
 
 2. Upload the .zip file into Jupyter home
 
