@@ -16,7 +16,7 @@ __Who is it for:__ This workshop is aimed towards researchers who are interested
 
 | Problem set | Download   | Preview            | Topic(s)                                                                             | # of questions |
 |-------------|------------|--------------------|--------------------------------------------------------------------------------------|----------------|
-| nurc_2021   | <a href="/static/workshops/nurc_2021.zip" download> .zip</a> | [View on GitHub](https://github.com/andr3wli/nurc-r-website/blob/master/content/problem_sets/nurc_2021-folder/nurc_2021.ipynb) | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization<br> * The pipe operator | 20             |
+| nurc_2021   | [folder](https://drive.google.com/file/d/1tYzOsWNA00cV8_UGuoo7bdZArIoTubet/view?usp=sharing) | [View on GitHub](https://github.com/andr3wli/nurc-r-website/blob/master/content/problem_sets/nurc_2021-folder/nurc_2021.ipynb) | * Intro to Jupyter <br>* Reading in Data<br>* Data wrangling<br>* Data visualization<br> * The pipe operator | 20             |
 
 #### Details
 
@@ -50,7 +50,7 @@ You can log in with your google account via __Cybera__ if you do not have an UBC
 {{% callout note %}}
 If you are using Jupyter notebook, you __cannot__ upload the `nurc_2021` folder (you can only upload files not folders). Instead of manually uploading everything,  follow these steps:
 
-~~1. After you download it, find it in your downloads and zip (compress) it.~~ The file is zipped already!
+1. After you download it, find it in your downloads and zip (compress) it.
 
 2. Upload the .zip file into Jupyter home
 
